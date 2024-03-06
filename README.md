@@ -8,7 +8,7 @@
 
 #### :pushpin: O projeto foi desenvolvido como desafio de um Bootcamp itensivo, para por em prática o que foi aprendido. Somente a página inicial do site foi desenvolvida, assim como não tem interação total com o usúario.
 
-#### :file_folder: Ferramentas utilizadas:
+#### :computer: Ferramentas utilizadas:
 
 <div style="display: inline_block">
   <img align="center" alt="HTML logo" height="30" width="50"src="https://img.shields.io/badge/HTML-red"/>
