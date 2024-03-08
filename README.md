@@ -18,3 +18,5 @@
 <br>
 
 #### :file_folder: Quick access: https://kamseara.github.io/projeto-site-gta/
+
+##### _Made with 🤍 by [Kamilly](https://github.com/KamSeara)_
